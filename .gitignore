@@ -11,3 +11,6 @@ Cargo.lock
 
 # IDE
 .idea
+
+# Build
+blog/public
