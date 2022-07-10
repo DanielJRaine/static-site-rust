@@ -74,6 +74,6 @@ include_content = true
 
 [extra]
 # Put all your custom variables here
-juice_logo_path=""
+rainemaker_logo_path="rainemaker-logo.png"
 
-juice_logo_name=""
+rainemaker_logo_name="RaineMaker"
