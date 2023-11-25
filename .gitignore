@@ -14,3 +14,9 @@ Cargo.lock
 
 # Build
 blog/public
+
+# Markdown
+.obsidian
+
+.DS_Store
+
