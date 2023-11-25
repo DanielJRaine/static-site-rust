@@ -74,6 +74,7 @@ include_content = true
 
 [extra]
 # Put all your custom variables here
+issues_url=""
 rainemaker_logo_path="rainemaker-logo.png"
-
 rainemaker_logo_name="RaineMaker"
+
